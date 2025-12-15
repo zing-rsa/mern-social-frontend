@@ -5,8 +5,6 @@ Mern Social is a code project that aims to simulate a social media similar to Tw
 The primary purpose of this project is to explore the JavaScript(MERN) ecosystem and improve my skills in React and API design.
 Thanks for checking it out.
 
-Hosted [here.](https://www.mern-social.zing-rsa.co.za/)  
-
 ### Debug
 
 `npm install`
